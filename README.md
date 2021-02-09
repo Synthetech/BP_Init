@@ -1,3 +1,3 @@
-# BlackPill-Synthesizer
+# BP_Init
 
-This is a test upload of files and folders.
+Basic Config info to start initializing the uC for use as a synthesizer.
